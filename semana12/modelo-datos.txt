@@ -1,0 +1,21 @@
+Causa
+id: CSD213
+titulo: Mejorar la seguridad del sector
+descripcion: Solicitud comunitaria para instalar más iluminación y mejorar los espacios públicos.
+fecha: 14/07/2026
+
+Apoyo
+id: CSD213
+causa_id: CSD213
+nombre: Angela Cuello
+fecha: 15/07/2026
+
+id: CSD214
+causa_id: CSD213
+nombre: Santiago Lopez
+fecha: 16/07/2026
+
+id: CSD215
+causa_id: CSD213
+nombre: Sofía Ramírez
+fecha: 17/07/2026

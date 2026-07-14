@@ -1,0 +1,17 @@
+1. Un usuario ingresa a la plataforma y registra una nueva petición indicando 
+el motivo y la información necesaria de la causa.
+
+2. El sistema valida los datos ingresados y guarda la petición en la base de datos
+para que pueda ser consultada.
+
+3. Los ciudadanos interesados revisan las peticiones disponibles y seleccionan la 
+opción de apoyar la causa de manera segura.
+
+4. La plataforma actualiza automáticamente el número de apoyos recibidos y muestra
+el avance de la petición.
+
+5. Cuando la petición alcanza los apoyos requeridos, el sistema organiza la 
+información y genera un documento PDF formal para su presentación.
+
+6. El sistema envía una notificación al usuario responsable informando que la 
+petición fue creada y está lista para ser compartida o entregada.
